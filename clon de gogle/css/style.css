@@ -134,7 +134,7 @@ footer{
     background-color:#f0f1f5fc;
     display: flex;
     flex-direction: column;
-    height: 100px;
+height: 100px; 
     color: #70757a;
     padding: 10px;
     font-size: 14px;
